@@ -5,11 +5,11 @@
 ## About Me
 
 - 🔭 I’m currently working on Student in VKU
-- 🌱 I’m currently learning security and something
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Your email](mailto:vovanbao.10a1.nh1@gmail.com)
+- 🌱 I’m currently learning Insident Reponse and something in Security
+  <!-- - 👯 I’m looking to collaborate on ... -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: [vovanbao.10a1.nh1@gmail.com](mailto:vovanbao.10a1.nh1@gmail.com)
 - ⚡ Fun fact: ...
 
 ## Skills
@@ -20,8 +20,8 @@
 
 ## Projects
 
-- [Project 1](https://github.com/ph4n10m1808/Kiemthuxamnhap_VKU): Description of project 1.
-- [Project 2](https://github.com/ph4n10m1808/bashscriptkalilinux): Description of project 2.
+- [Kiemthuxamnhap_DoAn](https://github.com/ph4n10m1808/Kiemthuxamnhap_VKU): Description of project 1.
+- [BashScriptForKaliLinux](https://github.com/ph4n10m1808/bashscriptkalilinux): Description of project 2.
 
 ## Statistics
 
