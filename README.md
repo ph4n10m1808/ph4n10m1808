@@ -20,8 +20,8 @@
 
 ## Projects
 
-- [Kiemthuxamnhap_DoAn](https://github.com/ph4n10m1808/Kiemthuxamnhap_VKU): Description of project 1.
-- [BashScriptForKaliLinux](https://github.com/ph4n10m1808/bashscriptkalilinux): Description of project 2.
+- [Kiemthuxamnhap_DoAn](https://github.com/ph4n10m1808/Kiemthuxamnhap_VKU): This is the final project for the penetration testing course.
+- [BashScriptForKaliLinux](https://github.com/ph4n10m1808/bashscriptkalilinux): This is the bash script for Kali Linux for me
 
 ## Statistics
 
