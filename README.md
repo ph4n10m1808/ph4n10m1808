@@ -11,7 +11,7 @@
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [vovanbao.10a1.nh1@gmail.com](mailto:vovanbao.10a1.nh1@gmail.com)
-- ⚡ Fun fact: ...
+<!--- ⚡ Fun fact: ... -->
 
 ## Skills
 
