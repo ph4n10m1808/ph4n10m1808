@@ -1,11 +1,12 @@
-# Hi there, I'm ph4n10m1808 (Võ Văn Bảo)! 👋
+# Hi there, I'm ph4n10m aka Võ Văn Bảo
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=$$USERNAME$$) -->
 
 ## About Me
 
-- 🔭 I’m currently working on Student in VKU
-- 🌱 I’m currently learning Insident Reponse and something in Security
+- 🔭 I’m currently a Student at VKU
+- 🌱 I’m currently learning Incident Response and SOC in Security
+- 🧭 Orientation on Information Security Incident Response and SOC
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
