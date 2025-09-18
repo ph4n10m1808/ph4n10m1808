@@ -21,8 +21,7 @@
 
 ## Projects
 
-- [Kiemthuxamnhap_DoAn](https://github.com/ph4n10m1808/Kiemthuxamnhap_VKU): This is the final project for the penetration testing course.
-- [BashScriptForKaliLinux](https://github.com/ph4n10m1808/bashscriptkalilinux): This is the bash script for Kali Linux for me
+<!-- - [Kiemthuxamnhap_DoAn](https://github.com/ph4n10m1808/Kiemthuxamnhap_VKU): This is the final project for the penetration testing course. -->
 
 ## Statistics
 
