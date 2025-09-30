@@ -10,7 +10,7 @@
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [vovanbao.10a1.nh1@gmail.com](mailto:vovanbao.10a1.nh1@gmail.com)
+- 📫 How to reach me: [baovovan.1808@gmail.com](mailto:baovovan.1808@gmail.com)
 <!--- ⚡ Fun fact: ... -->
 
 ## Skills
