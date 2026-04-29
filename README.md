@@ -10,10 +10,12 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently a **Student at VKU**
-* 🌱 I’m currently learning **Incident Response** and **SOC** in Security
-* 🧭 My main orientation is **Information Security Incident Response and SOC**
-* 📫 How to reach me: **[baovovan.1808@gmail.com](mailto:baovovan.1808@gmail.com)**
+Hi! I'm **Võ Văn Bảo** (aka ph4n10m), a Cybersecurity student at **VKU** with a strong passion for defending networks and monitoring threats. I am deeply interested in how systems can be secured against modern cyber attacks.
+
+* 🔭 **Currently:** Sharpening my skills in **Incident Response (IR)** and **Security Operations Center (SOC)** operations.
+* 🌱 **Learning:** Threat hunting, log analysis, and malware analysis.
+* 🎯 **Goal:** Building a solid foundation to become a proficient Security Analyst.
+* 📫 **Reach me at:** **[baovovan.1808@gmail.com](mailto:baovovan.1808@gmail.com)**
 
 ---
 
@@ -57,6 +59,5 @@
 
 <div align="center">
   <a href="mailto:baovovan.1808@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <!-- Add other socials here when ready -->
-  <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+  <a href="https://www.linkedin.com/in/ph4n10m1808"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
